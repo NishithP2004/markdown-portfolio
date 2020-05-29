@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+* Tech
+  * Computers
+  * Phones
+  * Tablets
+* Coding
+- Swimming
+  - BackStroke
+  - Underwater
+ 
